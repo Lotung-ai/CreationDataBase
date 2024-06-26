@@ -23,6 +23,7 @@ Clonez ce dépôt sur votre machine locale en utilisant Git. Si vous n'avez pas 
 ```bash
 git clone https://github.com/Lotung-ai/OCProjet6.git
 cd OCProjet6
+```
 
 ## Ouvrir les fichiers SQL dans SSMS
 
